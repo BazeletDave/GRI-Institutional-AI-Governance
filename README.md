@@ -1,26 +1,48 @@
-# Institutional AI Governance and Algorithmic Management | Grand Research Institute
+# GRI Institutional AI Governance & Assurance
 
-> **Independent research and demonstration only.** This repository is a Grand Research Institute educational and applied research project. It preserves an earlier Treasury AI Specialist portfolio exercise and contains exploratory institutional AI governance case studies, sample code, and synthetic validation scenarios. It is **not** an official U.S. Treasury project, a government operated system, a deployed cybersecurity product, a production security control, or evidence of federal authorization, sponsorship, access, or endorsement.
+**Grand Research Institute | Applied Artificial Intelligence, Institutional Governance and Algorithmic Management**
 
-**Current purpose:** An independent, evolving research repository on algorithmic management, AI development, and institutional governance. The original Treasury portfolio is retained solely as a historical originating case. No production deployment or continuous threat monitoring is intended.
+**Research status:** Independent, evolving research program. The initial U.S. Department of the Treasury AI Specialist portfolio exercise is preserved as the historical starting point, not the present purpose or an active job submission.
 
-**Research focus:** Institutional accessibility of AI capabilities, human authority, software assurance, algorithmic management, and governance. The Treasury TTB label verification exercise and PHP software assurance example are comparative research cases; neither establishes compromise of a federal system.
+## From an AI Engineering Submission to Institutional Research
 
-**What the code does:** The assurance example applies deterministic checks and a simple statistical baseline anomaly score to supplied test observations. GitHub Actions, where enabled, runs repository tests against synthetic scenarios only. Passing these tests does not certify security, prevent an external incident, enforce a real deployment gate, or establish machine learning efficacy in operational environments.
+This work originated as a portfolio exercise prepared for a U.S. Department of the Treasury artificial intelligence engineering opportunity. The original task provided a concrete design setting: translate institutional requirements into an inspectable AI application, demonstrate engineering choices, and consider accuracy, usability, authorization, human oversight, and accountability. The related Treasury TTB alcohol label verification prototype provides a specific case for studying how AI assisted classification can support, but must not displace, accountable human decisions.
 
-**Research materials:** [Living research index](research/README.md) · [Case registry](research/cases/README.md) · [Prototype and limitations](research/assurance/README.md) · [Evidence protocol](research/methods/EVIDENCE_PROTOCOL.md)
+GRI is now treating that exercise as **Case 001: Institutional AI Label Verification and Human Authority** within a broader independent research journey. The question is no longer whether an application satisfies a submission checklist. It is what the exercise reveals about the accessibility of AI capabilities, the distinction between technical feasibility and legitimate institutional authority, and the governance required before automated recommendations influence real decisions.
 
-## Why This Repository Expanded
+The original submission is retained below for provenance. Its historical language is not a description of the current program.
 
-The original Treasury AI Specialist portfolio was developed to demonstrate applied AI engineering and governance concepts in a public sector context. That exercise raised a broader research question: as accessible AI tools make it possible to reproduce institutionally relevant functions, how do governments, organizations, and regulatory systems establish the authority, accountability, and safeguards needed to use those capabilities responsibly?
+## Research Questions
 
-Grand Research Institute has therefore expanded this repository into an ongoing research environment, **not a continuation of an AI engineering job submission**. The portfolio is retained as an originating artifact, while the active research examines how institutions have long used algorithms to organize work, allocate resources, evaluate performance, enforce rules, and shape decisions. These established forms of algorithmic management and digital infrastructure provide essential institutional context for contemporary AI and emerging agentic systems. They are foundational antecedents, not a claim that every algorithm is itself AI.
+1. **Capability and access:** What can an individual or small research organization build using accessible AI tools, and what does that imply for public sector technical capacity?
+2. **Accuracy and assurance:** How should label extraction, classification errors, uncertain matches, latency, model drift, and reproducibility be measured before institutional use?
+3. **Authority and accountability:** Who can authorize a system, review its decisions, override outputs, contest errors, and assume responsibility for consequences?
+4. **Institutional adaptation:** How do incentives, procurement, professional expertise, rules, political priorities, and public legitimacy affect adoption of AI systems?
+5. **Governance evolution:** How do these questions change as deterministic software, machine learning, generative AI, and agentic systems acquire greater autonomy?
 
-The research follows the transition from rule based automation and algorithmic management toward predictive models, generative AI, and delegated agentic capabilities. It investigates how that transition changes institutional power, managerial responsibility, authorization, transparency, contestability, security, and public legitimacy. The **Nelson Model** supplies the principal institutional analytical lens: formal and informal rules, actors and interests, power, implementation, legitimacy, and adaptation. Technical assurance, such as the PHP software integrity case, is examined alongside governance of consequential decisions, such as the Treasury TTB label verification prototype.
+## Institutional and Academic Framework
 
-This is a living, evidence based research archive. New cases and findings should be dated, sourced, distinguished from hypotheses, and linked to reproducible methods. Its purpose is to support cumulative inquiry and future reference, not to represent a production system, official government initiative, or validated security service.
+GRI's independent analysis draws on global political economy and institutional approaches taught at **Thunderbird School of Global Management at Arizona State University**, including Roy C. Nelson's comparative worldviews and institutional analysis. Liberal, economic nationalist, and structuralist perspectives offer distinct explanations for state involvement, market incentives, access to technology, distributional consequences, and governance choices. These are teaching and analytical frameworks, not GRI empirical findings or claims of university endorsement.
 
-## Historical Origin: Treasury AI Specialist Portfolio
+The research also distinguishes the history of AI development, competition among laboratories and firms, public investment, and government oversight from the narrower technical performance of this prototype. Accounts of DeepMind, OpenAI, and industry leaders can motivate comparative historical inquiry, but anecdotes, contested motives, and claims of government failure require independent sourcing and must not be treated as verified findings.
+
+## Case Portfolio
+
+- **Case 001 | Treasury TTB AI Label Verification:** Originating design exercise; traceability, exact match versus semantic equivalence, exception handling, user experience, and human adjudication.
+- **Case 002 | Software Runtime Assurance:** PHP vulnerability and remediation evidence as a separate research prototype; no claim of government system access or production protection.
+- **Comparative stream | Algorithmic and Agentic Management:** Delegation, authority boundaries, oversight, contestability, incentives, and organizational learning.
+
+## Research Method and Evidence Boundaries
+
+The research uses source review, documented design decisions, synthetic test cases, code inspection, reproducible evaluation, and comparative institutional analysis. Any claims of performance or effectiveness require dated metrics and independently reviewable evidence. Assignment stakeholder narratives are **scenario material**, not independently authenticated interviews with Treasury employees. No access to government production systems, classified data, or official endorsement is claimed. This work is not an operational federal service, a validated regulatory compliance tool, or a certified cybersecurity control.
+
+**Research materials:** [Living research index](research/README.md) · [Case registry](research/cases/README.md) · [Assurance prototype and limitations](research/assurance/README.md) · [Evidence protocol](research/methods/EVIDENCE_PROTOCOL.md)
+
+**Related GRI program:** [ConsciousAI](https://github.com/BazeletDave/ConsciousAI) · [GRI institutional governance research index](https://github.com/BazeletDave/ConsciousAI/tree/main/GRI-Research-Journey/institutional-ai-governance-assurance)
+
+---
+
+## Historical Archive | Original Treasury AI Specialist Portfolio
 
 The following material documents the initial portfolio exercise and its historical objectives. It is preserved for provenance and does not define the present scope of Grand Research Institute's research.
 
