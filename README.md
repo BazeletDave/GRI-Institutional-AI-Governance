@@ -4,6 +4,14 @@
 
 **Research status:** Independent, evolving research program. The initial U.S. Department of the Treasury AI Specialist portfolio exercise is preserved as the historical starting point, not the present purpose or an active job submission.
 
+## Current research program | Institutional AI and accelerating governance
+
+**This is a GRI research repository, not a current Treasury job-application portfolio.** The Treasury AI Specialist exercise is retained as an originating historical artifact. Its enduring research value is the case it provides for examining public-sector decision rules, model errors, delegated authority, bias, institutional oversight, and human appeal rights.
+
+The case now feeds GRI's [living AI Governance Paradox research framework](https://github.com/BazeletDave/ConsciousAI/blob/main/GRI-Research-Journey/institutional-ai-governance-assurance/accelerating-ai-governance-paradox-living-research-framework.md) and the [cross-sector Treasury, NVIDIA and Tesla governance agenda](https://github.com/BazeletDave/ConsciousAI/blob/main/GRI-Research-Journey/institutional-ai-governance-assurance/government-ai-semiconductor-systems-governance-2026.md). Research records are designed to evolve through source verification, dated system-version changes, reproducible evaluation, documented human review, and feedback into the deployed [GRI governance dashboard](https://gri-global-intelligence.onrender.com/dashboard). This describes the **research integration objective**; it does not assert that the historical Treasury case is already automatically ingested by the dashboard.
+
+**Research provenance:** [Original TTB exercise and illustrative stakeholder scenarios](https://github.com/BazeletDave/Treasury-TTB-Label-Verification). These are assignment materials, not independently verified federal interviews, government endorsements, or evidence of Treasury production access.
+
 ## From an AI Engineering Submission to Institutional Research
 
 This work originated as a portfolio exercise prepared for a U.S. Department of the Treasury artificial intelligence engineering opportunity. The original task provided a concrete design setting: translate institutional requirements into an inspectable AI application, demonstrate engineering choices, and consider accuracy, usability, authorization, human oversight, and accountability. The related Treasury TTB alcohol label verification prototype provides a specific case for studying how AI assisted classification can support, but must not displace, accountable human decisions.
