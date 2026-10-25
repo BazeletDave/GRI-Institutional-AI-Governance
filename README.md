@@ -12,6 +12,12 @@ GRI is now treating that exercise as **Case 001: Institutional AI Label Verifica
 
 The original submission is retained below for provenance. Its historical language is not a description of the current program.
 
+## Connection to the GRI Master Research Journey
+
+This repository is the originating case-study implementation for the [ConsciousAI institutional governance and assurance portfolio](https://github.com/BazeletDave/ConsciousAI/tree/main/GRI-Research-Journey/institutional-ai-governance-assurance). The GRI master portfolio provides the comparative research context; this repository preserves the engineering submission's provenance, its prototype design, and the case-specific methods and limitations.
+
+**Case designation:** GRI Case 001 — Institutional AI Label Verification and Human Authority. The historical submission and the continuing research program are distinct stages, not separate claims of government affiliation.
+
 ## Research Questions
 
 1. **Capability and access:** What can an individual or small research organization build using accessible AI tools, and what does that imply for public sector technical capacity?
