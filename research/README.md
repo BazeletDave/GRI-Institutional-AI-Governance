@@ -26,6 +26,7 @@ Every case must identify primary sources, publication and access dates, the natu
 ## Entry points
 
 - [Case registry](cases/README.md)
+- [Case 001 Treasury TTB engineering provenance and assurance protocol](cases/CASE-001-TTB-ENGINEERING-PROVENANCE-ASSURANCE.md)
 - [Evidence and source protocol](methods/EVIDENCE_PROTOCOL.md)
 - [Institutional governance control matrix](methods/GOVERNANCE_CONTROLS.md)
 - [Change log](CHANGELOG.md)
