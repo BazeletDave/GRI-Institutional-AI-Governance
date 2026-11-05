@@ -56,3 +56,20 @@ A defensible governance posture requires explicit update authority, notification
 5. Existing GRI PHP2Shell vendor and public-sector advisories and institutional assurance records; retain their original source hierarchy and evidence custody.
 
 **Integration rule:** Treat this as a bounded cross-reference to existing AI Paradox, algorithmic management, PHP2Shell assurance, and institutional governance materials. Do not change Tiger Legacy review status, expose restricted evidence, or imply external academic or assurance certification.
+
+## Scholarly positioning and identification safeguards
+
+Institutional Verification Asymmetry is analytically related to but not identical with resource dependence, transaction cost economics, and institutional theory. Pfeffer and Salancik (1978) explain how dependence on external resources can affect organizational autonomy; Williamson (1985) provides a framework for contractual safeguards under uncertainty and asset specificity; North (1990) emphasizes institutional constraints and incentives. These works supply conceptual lenses, not direct empirical verification of IVA. Model and software transparency should be distinguished from operational decision rights, evidence accessibility, and actual control over deployment.
+
+**Measurement specification:** Material upstream change means a versioned alteration with a documented potential effect on security, functionality, data handling, availability, or institutional decision outputs. Verification completion requires a recorded acceptance decision against predeclared criteria and an attributable test or review artifact. Record both notification-to-verification and institution-detection-to-verification intervals to distinguish provider disclosure delay from institutional processing delay. Report rates per 100 material change events and stratify by criticality; avoid comparing raw counts across institutions with unequal observation periods.
+
+**Identification strategy:** Estimate associations using institution and dependency fixed effects where repeated observations permit, with controls for change severity, team capacity, asset visibility, contractual audit rights, and release frequency. Test whether findings survive alternative event definitions, delayed notifications, censored unresolved cases, and exclusion of emergency security patches. Document negative cases where proprietary systems provide strong verification and open source deployments exhibit weak operational control. Treat changes in governance controls as potentially endogenous rather than assuming their adoption causes improvement.
+
+**Interpretation threshold:** An operational anecdote establishes neither systemic vendor risk nor the magnitude of an asymmetry. Promote hypotheses to empirical findings only with documented sampling, reproducible analysis, uncertainty estimates, and independent review. Do not equate a deployment success signal with a tested HTTP payload or a publicly inspectable evidence package.
+
+### Additional foundational scholarship
+
+* Pfeffer, J., & Salancik, G. R. (1978). *The External Control of Organizations: A Resource Dependence Perspective*. Harper & Row.
+* Williamson, O. E. (1985). *The Economic Institutions of Capitalism*. Free Press.
+
+These foundational references should be read alongside current primary technical standards and source-specific evidence; they do not establish any particular frontier laboratory's behavior.
